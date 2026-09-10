@@ -1,9 +1,14 @@
 # Excellent Blaster
 
-- Rebranding ID: 679352964635cea05f283844
-- User ID: 67449b33030c0323ca420ecb
-- App name: Excellent Blaster
-- Product name: Button Sender
+Excellent Blaster by Excellent Blaster.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/excellent-blaster/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/excellent-blaster/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/excellent-blaster/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Excellent Blaster** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/excellent-blaster/releases/latest) and reinstall.
